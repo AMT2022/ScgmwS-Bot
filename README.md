@@ -11,7 +11,7 @@ C++ compiler with c++ 11 support
 ## Download code
 Remember to clone Repository recursively
 
-``` git clone https://github.com/kachim2/Simple-cpp-game-made-with-SFML.git --recursive ```
+``` git clone https://github.com/kachim2/ScgmwS-Bot.git --recursive ```
 ## Compilation
 To build the library for the latest version of the game run:
 ### Widows/Linux
